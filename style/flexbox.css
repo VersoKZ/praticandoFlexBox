@@ -1,0 +1,60 @@
+.titulo {
+    padding: 150px;
+}
+
+.buracos_negros__section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 150px;
+}
+
+.buraco_negro__foto{
+    display: flex;
+    flex-direction: row;
+}
+
+.meteoros__section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 150px;
+}
+
+.meteoro__div {
+    order: 2;
+}
+
+.meteoro__foto {
+    order: 1;
+}
+
+.estrelas__section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 150px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-around ;
+    flex-direction: row-reverse;
+}
+
+.logo {
+    display: flex;
+    align-self: center;
+    
+}
+
+.texto__rodape {
+    display: flex;
+    align-items: center;
+}
+
+.marcadagua {
+    display: flex;
+    align-items: center;
+}
+
